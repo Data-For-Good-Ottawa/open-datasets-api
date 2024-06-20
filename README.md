@@ -1,5 +1,7 @@
 # Open Datasets API
 
+[Repository Discussions: Identified Open Sources](https://github.com/Data-For-Good-Ottawa/open-datasets-api/discussions/2)
+
 ## Welcome to the Open Datasets API repository!
 
 ### Overview
@@ -15,6 +17,5 @@ This repository aims to facilitate the discovery and integration of various open
 ### Contributing
 
 We actively encourage contributions from the community! Examples of useful contributions include data cleaning scripts, API documentation updates, or new dataset suggestions. Whether you're new to open source or an experienced developer, your input helps improve this repository for everyone.
-
 
 Thank you for being part of the Open Datasets API community!
