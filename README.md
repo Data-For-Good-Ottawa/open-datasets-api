@@ -16,11 +16,5 @@ This repository aims to facilitate the discovery and integration of various open
 
 We actively encourage contributions from the community! Examples of useful contributions include data cleaning scripts, API documentation updates, or new dataset suggestions. Whether you're new to open source or an experienced developer, your input helps improve this repository for everyone.
 
-### Contact Us
-
-Have questions or want to discuss ideas? Reach out to us:
-- **Discord:** [Link to Discord channel]
-- **Repository Discussions:** [Link to discussions]
-- **Email:** [Your contact email]
 
 Thank you for being part of the Open Datasets API community!
